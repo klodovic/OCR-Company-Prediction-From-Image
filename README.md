@@ -6,4 +6,5 @@
 
 </br>
 <p>The returned value</p></br>
-![7](https://github.com/klodovic/OCR-Company-Prediction-From-Image/assets/61901937/2a356224-bef5-4521-92c2-1bf666de2be2)
+
+![7](https://github.com/klodovic/OCR-Company-Prediction-From-Image/assets/61901937/5317f186-0493-4234-82df-ed31a5792310)
